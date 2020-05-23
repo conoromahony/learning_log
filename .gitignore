@@ -1,2 +1,5 @@
 # Project exclude paths
 /Python3venv/
+__pycache__/
+*.sqlite3
+.DS_Store
